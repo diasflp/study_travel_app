@@ -1,84 +1,87 @@
 {
-    "viagens": {
-        "destaques": [{
-                "id": 1,
-                "titulo": "Pacote Natal",
-                "subtitulo": "Aéreo + Hotel com café",
-                "asset": "natal-brasil",
-                "diaria": 7,
-                "hospedes": 1,
-                "precoSemDesconto": 1.284,
-                "preco": 899,
-                "cancelamento": "Cancelamento Grátis!"
-            },
-            {
-                "id": 2,
-                "titulo": "Aéreo + Hotel",
-                "subtitulo": "Pacote Bonito",
-                "asset": "bonito-brasil",
-                "diaria": 5,
-                "hospedes": 2,
-                "precoSemDesconto": 1.048,
-                "preco": 734,
-                "cancelamento": "Cancelamento Grátis!"
-            },
-            {
-                "id": 3,
-                "titulo": "Aéreo + Hotel com café",
-                "subtitulo": "Porto de Galinhas",
-                "asset": "porto-galinhas-brasil",
-                "diaria": 5,
-                "hospedes": 1,
-                "precoSemDesconto": 1.078,
-                "preco": 809,
-                "cancelamento": "Cancelamento Grátis!"
-            }
-        ],
-        "ofertas": [{
-                "id": 4,
-                "titulo": "Beto Carrero",
-                "subtitulo": "Aéreo + Hotel + Ingresso",
-                "asset": "beto-carrero-brasil",
-                "diaria": 5,
-                "hospedes": 1,
-                "precoSemDesconto": 2.898,
-                "preco": 1449,
-                "cancelamento": "Cancelamento Grátis!"
-            },
-            {
-                "id": 5,
-                "titulo": "São Luís",
-                "subtitulo": "Aéreo + Hotel c/ café da manhã",
-                "asset": "sao-luis-brasil",
-                "diaria": 5,
-                "hospedes": 1,
-                "precoSemDesconto": 1.078,
-                "preco": 809,
-                "cancelamento": "Cancelamento Grátis!"
-            }
-        ],
-        "internacionais": [{
-                "id": 6,
-                "titulo": "Cancún All inclusive",
-                "subtitulo": "Aéreo + Hotel All Inclusive",
-                "asset": "cancun-internacional",
-                "diaria": 5,
-                "hospedes": 1,
-                "precoSemDesconto": 5.816,
-                "preco": 3.199,
-                "cancelamento": "Cancelamento Grátis!"
-            },
-            {
-                "id": 7,
-                "titulo": "Pacote Santiago",
-                "subtitulo": "Aéreo + Hospedagem",
-                "asset": "santiago-internacional",
-                "diaria": 3,
-                "hospedes": 1,
-                "precoSemDesconto": 1.895,
-                "preco": 1.327,
-                "cancelamento": "Cancelamento Grátis!"
-            }
-        ]
-    }
+  "travel": {
+    "highlights": [
+      {
+        "id": 1,
+        "title": "Pacote Natal",
+        "subtitle": "Aéreo + Hotel com café",
+        "asset": "natal-brasil",
+        "daily": 7,
+        "guests": 1,
+        "priceWithoutDiscount": 1.284,
+        "price": 899,
+        "cancellation": "Cancelamento Grátis!"
+      },
+      {
+        "id": 2,
+        "title": "Aéreo + Hotel",
+        "subtitle": "Pacote Bonito",
+        "asset": "bonito-brasil",
+        "daily": 5,
+        "guests": 2,
+        "priceWithoutDiscount": 1.048,
+        "price": 734,
+        "cancellation": "Cancelamento Grátis!"
+      },
+      {
+        "id": 3,
+        "title": "Aéreo + Hotel com café",
+        "subtitle": "Porto de Galinhas",
+        "asset": "porto-galinhas-brasil",
+        "daily": 5,
+        "guests": 1,
+        "priceWithoutDiscount": 1.078,
+        "price": 809,
+        "cancellation": "Cancelamento Grátis!"
+      }
+    ],
+    "offers": [
+      {
+        "id": 4,
+        "title": "Beto Carrero",
+        "subtitle": "Aéreo + Hotel + Ingresso",
+        "asset": "beto-carrero-brasil",
+        "daily": 5,
+        "guests": 1,
+        "priceWithoutDiscount": 2.898,
+        "price": 1449,
+        "cancellation": "Cancelamento Grátis!"
+      },
+      {
+        "id": 5,
+        "title": "São Luís",
+        "subtitle": "Aéreo + Hotel c/ café da manhã",
+        "asset": "sao-luis-brasil",
+        "daily": 5,
+        "guests": 1,
+        "priceWithoutDiscount": 1.078,
+        "price": 809,
+        "cancellation": "Cancelamento Grátis!"
+      }
+    ],
+    "international": [
+      {
+        "id": 6,
+        "title": "Cancún All inclusive",
+        "subtitle": "Aéreo + Hotel All Inclusive",
+        "asset": "cancun-internacional",
+        "daily": 5,
+        "guests": 1,
+        "priceWithoutDiscount": 5.816,
+        "price": 3.199,
+        "cancellation": "Cancelamento Grátis!"
+      },
+      {
+        "id": 7,
+        "title": "Pacote Santiago",
+        "subtitle": "Aéreo + Hospedagem",
+        "asset": "santiago-internacional",
+        "daily": 3,
+        "guests": 1,
+        "priceWithoutDiscount": 1.895,
+        "price": 1.327,
+        "cancellation": "Cancelamento Grátis!"
+      }
+    ]
+  }
 }
